@@ -1,0 +1,20 @@
+[
+  {
+    "id": "6474acde55c318081921c614",
+    "fistName": "Roj",
+    "lastName": "Khan",
+    "email": "Roj@gmail.com",
+    "gender": "MALE",
+    "address": {
+      "country": "England",
+      "postCode": "E1",
+      "city": "London"
+    },
+    "favouriteSubjects": [
+      "Computer Science",
+      "Math"
+    ],
+    "totalSpentInBooks": 10,
+    "created": "2023-05-29T16:47:10.315"
+  }
+]
